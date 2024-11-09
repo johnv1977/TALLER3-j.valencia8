@@ -18,7 +18,7 @@ print(guarderia.alimentar_boa(None))
 
 # Prueba de alimentación con boa
 contador = 1
-while contador <= 11:
+while contador <= 21:
     print(guarderia.alimentar_boa(boas[0]))
     contador += 1
 
